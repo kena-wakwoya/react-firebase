@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+This Project contains all necessary code for react and firebase crud and login and singup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
